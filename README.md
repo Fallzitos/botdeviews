@@ -1,2 +1,2 @@
-# botdeviews
-Esse bot foi feito usando Python 3.10, Usando as bibliotecas: Time e Playwright
+Aviso:
+Eu não me responsabilizo por mal uso do robô, ele está no ar para fins educativos sobre Web Scrapping
