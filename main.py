@@ -15,3 +15,5 @@ while views <= viewsdesejo: #Codigo pra repetir o processo varias vezes
         views = views + 1 #Adiciona mais uma view a variavel
         pagina = pagina.close() #fecha a pagina
         #E assim se repete a o numero de views for igual ao numero que você pediu
+if views => viewsdesejo:
+    print('Todas a visualizações foram aplicadas!')
